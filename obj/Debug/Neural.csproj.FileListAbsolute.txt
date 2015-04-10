@@ -1,0 +1,10 @@
+C:\CodeTest\Neural\bin\Debug\Neural.exe.config
+C:\CodeTest\Neural\bin\Debug\Neural.exe
+C:\CodeTest\Neural\bin\Debug\Neural.pdb
+C:\CodeTest\Neural\obj\Debug\Neural.exe
+C:\CodeTest\Neural\obj\Debug\Neural.pdb
+C:\CodeTest\Neural\bin\Debug\encog-core-cs.dll
+C:\CodeTest\Neural\bin\Debug\MathNet.Numerics.dll
+C:\CodeTest\Neural\bin\Debug\Newtonsoft.Json.dll
+C:\CodeTest\Neural\bin\Debug\MathNet.Numerics.xml
+C:\CodeTest\Neural\bin\Debug\Newtonsoft.Json.xml
